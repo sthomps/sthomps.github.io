@@ -4,6 +4,7 @@ footer > ul { list-style-type: none; padding-left: 0; }
 footer > ul > li { display: inline-block; margin-right: 1em; }
 footer > ul > li { color: #DADADA; }
 footer > ul > li > a { color: #C2C2E6; }
+footer > ul > li > a:visited { color: #C2C2E6; }
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', serif; color: #875A9C; }
 li, p, span, { font-family: 'Arvo', serif; color: #2D2D2D; }
