@@ -6,10 +6,10 @@ footer > ul > li { color: #DADADA; }
 footer > ul > li > a { color: #C2C2E6; }
 footer > ul > li > a:visited { color: #C2C2E6; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', serif; color: #875A9C; }
-li, p, span { font-family: 'Arvo', serif; color: #2D2D2D; }
-a { color: #AD84C2; }
-a:hover, a:visited { color: #AD84C2 }
+h1, h2, h3, h4, h5, h6 { font-family: 'Helvetica', serif; color: #5F83DD; }
+li, p, span { font-family: 'Helvetica', serif; color: #2D2D2D; }
+a { color: #5F83DD; }
+a:hover, a:visited { color: #5F83DD }
 
 a.back-link { margin-bottom: 1em; display: block; color: #C2C2E6; }
-a.back-link:hover { color: #AD84C2; }
+a.back-link:hover { color: #5F83DD; }
