@@ -6,8 +6,9 @@ footer > ul > li { color: #DADADA; }
 footer > ul > li > a { color: #C2C2E6; }
 footer > ul > li > a:visited { color: #C2C2E6; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Helvetica', serif; color: #5F83DD; }
-li, p, span { font-family: 'Helvetica', serif; color: #2D2D2D; }
+h1, h2, h3, h4, h5, h6 { font-family: 'ia Writer DuoSpace', serif; color: #5F83DD; }
+li, p, span { font-family: 'ia Writer DuoSpace', serif; color: #2D2D2D; }
+p width: "200px"
 a { color: #5F83DD; }
 a:hover, a:visited { color: #5F83DD }
 
